@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Mrittu Chaya
+
+This log tracks the cryptographic history and versioning for the song **Mrittu Chaya** (mrittu-chaya).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-11T06:03:20.228267 | `v1` | `16fa8a5baea637eb924cb5efce823db09dd75efbb321d2b919ba4e2ec17cc9be` | `31a6d15223ca5816ef4f871cb85c2d3db020e915ec767248f05d4f4378277c0c` | `2026-05-11_mrittu-chaya-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

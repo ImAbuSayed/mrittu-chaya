@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/mrittu-chaya/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Mrittu Chaya](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mrittu-chaya/) |
+| **Get License** | [Commercial Licensing for Mrittu Chaya](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mrittu-chaya/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `16fa8a5baea637eb924cb5efce823db09dd75efbb321d2b919ba4e2ec17cc9be` |
 | **Timestamp** | May 11, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
