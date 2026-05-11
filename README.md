@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অন্ধকারে খুঁজি আমি তোমার ওই ছায়া
+> তোমার ওই ছায়া
+> হৃদয় মাঝে জমে আছে অদ্ভুত এক মায়া
+> মাতাল করা হাওয়ায় আজ মিশেছে তোমার ঘ্রাণ
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
